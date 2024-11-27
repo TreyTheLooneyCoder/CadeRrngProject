@@ -1,0 +1,59 @@
+body {
+    background-image: url(../assets/tom-clancys-rainbow-six-siege-3840x2160.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.move {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 50%;
+    height: 300px;
+}
+
+.ppl-names {
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.623);
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.change-btn {
+    border-radius: 3px;
+    background-color: bisque;
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last-5 {
+    background-color: rgba(0, 0, 0, 0.493); 
+    position: absolute; 
+    top: 500px; 
+    left: 50px;
+    width: 400px;
+    height: 400px;
+    color: white;
+}
+
+#namePlace1 {
+    text-align: center;
+}
+
+#namePlace2 {
+    text-align: center;
+}
+
+#namePlace3 {
+    text-align: center;
+}
+
+#namePlace4 {
+    text-align: center;
+}
